@@ -1,0 +1,9 @@
+#Lisätään git ignoreen build cansiot 
+**/build/
+
+#Logitiedostot
+*.log 
+*.tmp
+
+#Käyttöjärjestelmädata 
+Thumbs.db #Os luomia automaattitiedostoja
