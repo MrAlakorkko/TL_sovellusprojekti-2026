@@ -15,7 +15,7 @@ Projektin lopputuloksena toteutetaan järjestelmä, joka pystyy tunnistamaan enn
 # Järjestelmän arkkitehtuuri
 ---
 
-![My Image](Arkkitehtuurikuva.jpg)
+![My Image](Documents/Arkkitehtuurikuva.jpg)
 
 Järjestelmän tiedonkulku:
 
